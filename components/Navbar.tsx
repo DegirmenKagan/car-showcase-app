@@ -1,8 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import CustomButton from "./CustomButton";
-import GitIconButton from "./GitIconButton";
+import { CustomButton, GitIconButton } from "./";
 
 function Navbar() {
   return (
