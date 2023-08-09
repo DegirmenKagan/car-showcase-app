@@ -6,6 +6,7 @@ import GitIconButton from './GitIconButton'
 import SearchBar from './SearchBar'
 import CustomFilter from './CustomFilter'
 import SearchManufacturer from './SearchManufacturer'
+import CarCard from './CarCard'
 
 export {
     Hero,
@@ -16,4 +17,5 @@ export {
     SearchBar,
     CustomFilter,
     SearchManufacturer,
+    CarCard,
 }
