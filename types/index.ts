@@ -30,3 +30,7 @@ export interface CarProps{
     transmission:string;
     year:number;
 }
+
+export interface CustomFilterProps{
+    title: string;
+}
